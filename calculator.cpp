@@ -1,7 +1,6 @@
 #include <iostream>
 
-    int firstNumber, secondNumber;
-    int operationSelect;
+    int firstNumber, secondNumber, operationSelect;
 
     int main() {
         std::cout << "Welcome to my Calculator! Please input first number here:" << std::endl;
